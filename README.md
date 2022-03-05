@@ -14,4 +14,4 @@ Project Planning:
   
 Data Analysis using MySQL:
 
-We used sample_sales_data.sql for this case study.
+We used sample_sales_data.sql for this case study. We performed primary analysis of the data using MySQL(sales_insight_analysis.sql).
