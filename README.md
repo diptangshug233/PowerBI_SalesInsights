@@ -39,10 +39,26 @@ We also formatted our dashboard to be used in Power BI Mobile.
 
 ![image](https://user-images.githubusercontent.com/79837402/156887702-f6cdd8f5-3895-4389-a15c-a944657b3be9.png) ![image](https://user-images.githubusercontent.com/79837402/156887724-dea13733-c094-4d4e-843c-6aa1296c40f6.png)
 
-
-
 PowerBI_SalesInsights.pbix is attached for the reference.
 
 
+_Conclusion:_
 
+This project will be explaining from the perspective of sales data at an imaginary hardware company. We can behave as a Internal or External Stakeholders to give a feedback. Final dashboard consists of simple visual display of the most important information that decision makers need to help them achleve objectives.
+To increase the sales growth, Sales director need to look into these areas:
+Revenue by Zone
+Sales Quantity by Zone
+Revenue Trend
+Revenue by Markets
+Sales Quantity by Markets
+Top 5 Customers by Revenue
+Top 5 Products by Revenue
+Last 3 years Revenue
+Last 3 years Revenue by Zone - We can focus to Increase sales on particular zone by increasing sales employees,promoting/advertising products
+Identify Less Revenue getting from Customers - We can get the feedback from them, attract offers & discounts
+Identify Top Revenue getting from Customers
+Identify the markets which sales is very very less - Stop sales in those areas to avoid transport charges and sales employees, this amount can be invest on other areas.
+Identify which products increasing more Revenue from Zone, Market, customer - Our main objective is to increase sales growth.
+Identify on which mont sales growth is increasing by checking with previous years - So that company can be ready with quantity to increase the products distribution.
 
+With these generated insights, we believe that the stakeholders will be able to take appropriate decisions for the growth of the company.
