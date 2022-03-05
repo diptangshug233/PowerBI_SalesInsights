@@ -12,3 +12,6 @@ Project Planning:
   Success Criteria - Dashboard(s) uncovering sales order insights with latest data available. Sales team able to take better decisions & cost savings from the total spend. Sales
   Analysts stop data gathering manually in order to save their business time and reinvest it value added activity.
   
+Data Analysis using MySQL:
+
+We used sample_sales_data.sql for this case study.
