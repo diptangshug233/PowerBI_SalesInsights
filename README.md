@@ -23,13 +23,26 @@ We used sample_sales_data.sql for this case study. We performed primary analysis
 _Data Cleaning using Power BI:_
 
 We connnected our local MySQL database with Power BI.
-We removed null values and duplicates from our data and converted transactions in USD to INR to maintain data uniformity.
+We removed null values and duplicates from our data and converted transactions in USD to INR to maintain data uniformity. We created several new measures for generating necessary insights.
 After the cleaning and modelling, we have our data ready to be used in creating visualizations.
 
 ![image](https://user-images.githubusercontent.com/79837402/156875570-d8acd0e0-b1e1-4d3f-8640-d9e8290e30bd.png)
 
 
 _Data Visualization:_
+
+With the clean data in our hand, we created various visualizations to monitor key metrics. We used different visualizations from Power BI while creating this dashboard i.e. line chart, column chart, pie chart, bar chart, line and column chart, donut chart, card, slicer.
+![image](https://user-images.githubusercontent.com/79837402/156887422-0a04eb69-85e9-4a44-ba2b-3c1f042196e7.png)
+![image](https://user-images.githubusercontent.com/79837402/156887448-16fc4db0-ce46-4eac-affc-d158e3778cc6.png)
+
+We also formatted our dashboard to be used in Power BI Mobile.
+
+![image](https://user-images.githubusercontent.com/79837402/156887702-f6cdd8f5-3895-4389-a15c-a944657b3be9.png) ![image](https://user-images.githubusercontent.com/79837402/156887724-dea13733-c094-4d4e-843c-6aa1296c40f6.png)
+
+
+
+PowerBI_SalesInsights.pbix is attached for the reference.
+
 
 
 
