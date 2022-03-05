@@ -23,7 +23,7 @@ We used sample_sales_data.sql for this case study. We performed primary analysis
 _Data Cleaning using Power BI:_
 
 We connnected our local MySQL database with Power BI.
-We removed null values from our data and converted transactions in USD to INR to maintain data uniformity.
+We removed null values and duplicates from our data and converted transactions in USD to INR to maintain data uniformity.
 After the cleaning and modelling, we have our data ready to be used in creating visualizations.
 
 ![image](https://user-images.githubusercontent.com/79837402/156875570-d8acd0e0-b1e1-4d3f-8640-d9e8290e30bd.png)
