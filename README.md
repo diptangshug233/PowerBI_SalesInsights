@@ -15,3 +15,13 @@ Project Planning:
 Data Analysis using MySQL:
 
 We used sample_sales_data.sql for this case study. We performed primary analysis of the data using MySQL(sales_insight_analysis.sql).
+
+Data Cleaning using Power BI:
+
+We connnected our local MySQL database with Power BI.
+We removed null values from our data and converted transactions in USD to INR to maintain data uniformity.
+After the cleaning and modelling, we have our data ready to be used in creating visualizations.
+
+![image](https://user-images.githubusercontent.com/79837402/156875570-d8acd0e0-b1e1-4d3f-8640-d9e8290e30bd.png)
+
+
